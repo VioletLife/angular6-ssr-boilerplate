@@ -8,6 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 ## Production Deploy
+
+
 ```
 Step1: npm run build:ssr
 Step2: npm run serve:ssr
@@ -18,14 +20,14 @@ Step2: npm run serve:ssr
 
 ##Service-Worker
 
-(Service-Worker)[https://angular.io/guide/service-worker-getting-started]
+[Service-Worker](https://angular.io/guide/service-worker-getting-started)
 
 
 
 
 ##SSR(server-side rendering)
 
-(SSR)[https://angular.io/guide/universal]
+[SSR](https://angular.io/guide/universal)
 
 
 ## Code scaffolding
