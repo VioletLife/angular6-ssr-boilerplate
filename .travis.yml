@@ -5,7 +5,9 @@ node_js:
 install:
     - npm install -g @angular/cli
     - npm install -g webpack-cli
+    - npm install -g protractor
     - npm install
+    - webdriver-manager update
 script:
     - npm run lint
     - npm run e2e
