@@ -1,8 +1,8 @@
 # Angular6 SSR Boilerplate
 
 
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/VioletLife/angular6-ssr-boilerplate) 
-[![Build Status](https://travis-ci.org/VioletLife/angular6-ssr-boilerplate.svg?branch=master)](https://travis-ci.org/VioletLife/angular6-ssr-boilerplate)   
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/VioletLife/angular6-ssr-boilerplate)
+[![Build Status](https://travis-ci.org/VioletLife/angular6-ssr-boilerplate.svg?branch=master)](https://travis-ci.org/VioletLife/angular6-ssr-boilerplate)
 [![Known Vulnerabilities](https://snyk.io/test/github/VioletLife/angular6-ssr-boilerplate/badge.svg?targetFile=package.json)](https://snyk.io/test/github/VioletLife/angular6-ssr-boilerplate?targetFile=package.json)
 
 
