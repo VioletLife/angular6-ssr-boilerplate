@@ -10,11 +10,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Production Deploy
 
 
-```
 Step1: npm run build:ssr
-Step2: npm run serve:ssr
 
-```
+Step2: npm run serve:ssr
 
 
 
