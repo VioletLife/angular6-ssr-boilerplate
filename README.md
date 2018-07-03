@@ -1,5 +1,9 @@
 # Angular6 SSR Boilerplate
 
+
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/VioletLife/angular6-ssr-boilerplate)
+
+
 QuickStart for Angular6 SSR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
