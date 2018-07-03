@@ -4,6 +4,7 @@ node_js:
     - "9"
 install:
     - npm install -g @angular/cli
+    - npm install -g webpack-cli
     - npm install
 script:
     - npm run lint
