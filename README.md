@@ -1,8 +1,27 @@
-# Angular6SsrBoilerplate
+# Angular6 SSR Boilerplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
+## Production Deploy
+```
+Step1: npm run build:ssr
+Step2: npm run serve:ssr
+
+```
+
+##Service-Worker
+
+(Service-Worker)[https://angular.io/guide/service-worker-getting-started]
+
+
+##SSR(server-side rendering)
+
+(SSR)[https://angular.io/guide/universal]
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
