@@ -14,16 +14,19 @@ Step2: npm run serve:ssr
 
 ```
 
+
+
 ##Service-Worker
 
 (Service-Worker)[https://angular.io/guide/service-worker-getting-started]
+
+
 
 
 ##SSR(server-side rendering)
 
 (SSR)[https://angular.io/guide/universal]
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
