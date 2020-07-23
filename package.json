@@ -23,7 +23,7 @@
     "@angular/platform-browser": "^7.2.14",
     "@angular/platform-browser-dynamic": "^7.2.14",
     "@angular/platform-server": "^7.2.14",
-    "@angular/pwa": "^0.6.8",
+    "@angular/pwa": "^0.803.29",
     "@angular/router": "^7.2.14",
     "@angular/service-worker": "^7.2.14",
     "@nguniversal/aspnetcore-engine": "^7.1.1",
